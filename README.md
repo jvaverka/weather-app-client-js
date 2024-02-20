@@ -2,6 +2,8 @@
 
 Frontend weather web app using HTML, CSS, vanilla JavaScript and EJS.
 
+[Express application generator](https://expressjs.com/en/starter/generator.html) provided the initial project structure.
+
 ## Run Locally
 
 Clone the project.
